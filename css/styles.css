@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin: 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.526rem;
+}
+
+h2 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h1,
+h2 {
+    color: #61C0BF;
+}
+
+h3,
+.footer-link,
+.btn {
+    color: #11999E;
+}
+
+hr {
+    margin: 80px auto;
+    border-style: dotted;
+    height: 0px;
+    width: 4%;
+    border-width: 6px 0 0 0;
+    border-color: #52616B;
+
+}
+
+.top-container {
+    padding-top: 100px;
+    position: relative;
+    background-color: #E4F9F5;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 350px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 350px;
+}
+
+.mountain {
+    position: relative;
+    top: auto;
+    right: auto;
+    bottom: 0px;
+}
+
+.middle-container {
+    margin: 100px auto;
+}
+
+.introduce {
+    width: 50%;
+    margin: 0px auto;
+}
+
+.coding {
+    border-radius: 100%;
+    width: 35%;
+    float: left;
+    margin-right: 40px;
+}
+
+.eng {
+    width: 25%;
+    float: right;
+    margin-left: 40px;
+}
+
+.skill-row {
+    line-height: 2;
+    text-align: left;
+    width: 50%;
+    margin: 80px auto;
+}
+
+.btn {
+    background: #46CDCF;
+    background-image: -webkit-linear-gradient(top, #46CDCF, #3D84A8);
+    background-image: -moz-linear-gradient(top, #46CDCF, #3D84A8);
+    background-image: -ms-linear-gradient(top, #46CDCF, #3D84A8);
+    background-image: -o-linear-gradient(top, #46CDCF, #3D84A8);
+    background-image: linear-gradient(to bottom, #46CDCF, #3D84A8);
+    border-radius: 10px;
+    color: azure;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.bottom-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    ;
+    background-color: #66BFBF;
+}
+
+.footer-link {
+    color: #364F6B;
+    margin: 0 20px 0 20px;
+    text-decoration: none;
+}
+
+.copyright {
+    margin-top: 50px;
+    color: #EAF6F6;
+}
